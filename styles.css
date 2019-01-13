@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Roboto|Roboto+Slab|Ubuntu|Varela+Round|Work+Sans');
+
+html{
+    background-color: black;
+}
+
+table{
+
+    border: 2px;
+    color: black;
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    font-weight: bold;
+
+}
+
+h1,h2,h3,h4,h5,h6{
+
+    color: white;
+}
+
+th{
+    color: gray;
+    padding: 5px;
+    font-weight: bold;
+
+}
+
+td{
+    padding: 5px;
+
+}
+
+button{
+    background-color: #7c3333;
+    color: white;
+    width: 80px;
+    height: 30px;
+    border: none;
+    border-radius: 2px;
+
+
+}
+
+body{
+
+    width: 70%;
+    margin: auto;
+    background-color: black;
+    font-family: "Ubuntu";
+}
+
+a{
+    color: #7c3333;
+    margin:5px;
+    padding: 5px;
+    text-decoration: none;
+    font-family: "Ubuntu";
+}
+
+a:hover {
+
+    background-color: #7c3333;
+    color: white;
+    border-radius: 7px;
+}
+
+p{
+    text-align: left;
+}
